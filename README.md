@@ -1,19 +1,26 @@
-## Hi there 👋
+# Hello 👋 I'm SuiFei
 
-<!--
-**suifei/suifei** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 24 years of programming experience and 16 years in technical leadership, I specialize in automated system development, anti-fraud technology, and cutting-edge tech research.
 
-Here are some ideas to get you started:
--->
+## 🔭 I'm currently working on
+- Automation systems for travel-related services
+- Research on anti-fraud technologies for domestic and international markets
+- High-concurrency system design and implementation
+- Managing reverse engineering teams
 
-- 🔭 I'm currently working on enhancing mobile security and reverse engineering tools
-- 🌱 I'm currently learning advanced ARM64 assembly and IoT security
-- 👯 I'm looking to collaborate on open-source security projects
-- 🤔 I'm looking for help with optimizing automated firmware builds
-- 💬 Ask me about Frida customization, assembly languages, or embedded systems
-- 📫 How to reach me: Check out my blog at https://chinasf.cnblogs.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can convert assembly to hex in my sleep!
-- 🤙 QQ Group: 555354813
+## 💻 Tech Stack
+Proficient in both low-level and high-level development, focusing on automated systems, anti-fraud technologies, and high-performance system design.
 
-I'm SuiFei, a passionate R&D professional from China. My work focuses on security, reverse engineering, and embedded systems. I love creating tools that push the boundaries of what's possible in these fields. Feel free to explore my repositories, including Fridare for iOS jailbreak, ASM2HEX for assembly conversion, and various IoT projects!
+## 🌟 Career Highlights
+- Led development of high-concurrency automated systems for travel services
+- Successfully implemented anti-fraud strategies for domestic and international platforms
+- Managed reverse engineering teams to solve complex technical challenges
+- Designed and implemented large-scale data collection systems
+
+## 🌱 I'm currently exploring
+Ongoing research into emerging technologies applied to automated systems, anti-fraud measures, and high-concurrency domains.
+
+## 👯 I'm looking to collaborate on
+Innovative automated system designs, anti-fraud technology development, or high-performance system solutions.
+
+Feel free to explore my repositories and reach out if you want to discuss technology or collaborate!
