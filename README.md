@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check out my blog at http://chinasf.cnblogs.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can convert assembly to hex in my sleep!
+- 🤙 QQ Group: 555354813
 
 I'm SuiFei, a passionate R&D professional from China. My work focuses on security, reverse engineering, and embedded systems. I love creating tools that push the boundaries of what's possible in these fields. Feel free to explore my repositories, including Fridare for iOS jailbreak, ASM2HEX for assembly conversion, and various IoT projects!
