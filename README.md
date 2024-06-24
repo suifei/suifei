@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on open-source security projects
 - 🤔 I'm looking for help with optimizing automated firmware builds
 - 💬 Ask me about Frida customization, assembly languages, or embedded systems
-- 📫 How to reach me: Check out my blog at http://chinasf.cnblogs.com
+- 📫 How to reach me: Check out my blog at https://chinasf.cnblogs.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can convert assembly to hex in my sleep!
 - 🤙 QQ Group: 555354813
