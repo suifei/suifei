@@ -1,1 +1,7 @@
-I have long-standing interests in reverse engineering (IDA Pro plugins for ARM64 CFF deobfuscation targeting ....SDK, Unicorn emulation, JA3/TLS fingerprint bypass research), industrial compiler development (IECC2: IEC 61131-3 ST/IL/SFC → ANSI C via ANTLR4/Go frontend, targeting RT-Linux across 8–64-bit platforms), Android automation (LLM agent framework, MCP server on-device, ADB device management platform), macOS remote administration, and Web3 feasibility analysis, with a background in training team members on TDD-driven AI programming methodology and planning-with-files/context engineering patterns.
+复杂遗留软件问题解决
+
+无源码程序分析、调试、修改、迁移、文档恢复
+PowerBuilder / Delphi / C++ / Java / 工业软件
+AI 辅助分析与改造
+
+有类似问题？描述现状、系统规模和目标，我先帮你判断是否值得做。
