@@ -16,3 +16,17 @@
 * Industrial Automation / PLC / IEC 61131-3
 * Embedded Systems / C / C++ / Go / C#
 * High-concurrency & Large-scale Business Systems
+
+### Contact
+
+如果你正在处理一个复杂的软件问题，尤其是：
+
+* 无源码程序分析、调试与修改
+* 遗留系统理解、迁移与现代化
+* 大型软件系统架构、性能与疑难问题
+* AI 辅助软件工程与企业自动化
+* 工业软件、PLC、嵌入式及系统级开发
+
+欢迎联系我，一起讨论问题本身，而不局限于具体技术栈。
+
+**QQ：410000**
